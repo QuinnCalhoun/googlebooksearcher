@@ -19,6 +19,7 @@
     "concurrently": "^4.1.0",
     "nodemon": "^1.19.4"
   },
+  "homepage" : "http://myname.github.io/myapp",
   "dependencies": {
     "axios": "^0.19.2",
     "body-parser": "^1.19.0",
